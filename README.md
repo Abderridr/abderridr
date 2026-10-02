@@ -72,8 +72,3 @@
 </p>
 
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=2E9EF7" alt="profile views" />
-</p>
