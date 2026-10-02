@@ -71,17 +71,6 @@
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 📱 Featured Apps
-
-| App | Description |
-|---|---|
-| **Rawi** | *(add a one-line description)* |
-| **Lexo** | *(add a one-line description)* |
-| **Temper** | *(add a one-line description)* |
-| **Unscrolla** | *(add a one-line description)* |
-| **WitAnime** | *(add a one-line description)* |
 
 ---
 
